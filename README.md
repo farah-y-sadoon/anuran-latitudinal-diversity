@@ -8,19 +8,19 @@ To assess biodiversity patterns of anurans, the current analysis primarily aims 
 The latitudinal diversity gradient describes a widespread pattern in global species richness, where biodiversity peaks in the tropics and declines with increasing distance from the equator (Hawkins, 2001). This pattern has been observed in anurans as well, supporting the prediction that if species richness is highest at the equator, there will be a negative relationship between species richness and distance from the equator (Wiens et al., 2009). If this pattern is not observed, it may be due to incomplete sampling data reported in BOLD, or an indication of a change in typical diversity patterns for anuran species that warrants further investigation.
 
 ## Methods
-![Figure 0](figs/figure_0)
+![Figure 0](figs/00_fig_methods.png)
 
 ## Results
 
 ### Analysis results reveal insights about sampling and species richness patterns at different latitudes
 
-![Figure 1](figs/figure_1)
+![Figure 1](figs/01_fig_distribution_of_anura_specimen.png)
 Figure 1. Distribution pattern of all recorded anuran specimens in BOLD, by latitude band. The figure indicates global sampling of anurans. Specimen counts are higher near the equator and in the southern hemisphere, particularly in South America. Additionally, specimens decline moving away from the equator, especially in the northern hemisphere. 
 
-![Figure 2](figs/figure_2)
+![Figure 2](figs/02_fig_rarecurves.png)
 Figure 2. Rarefaction curves for the median of each latitude band. The number of samples per latitude band is uneven, shown by the extreme differences in the curves. Latitudes 62.7°, 53.4°, and 42.6° have very little sampling coverage, while 38.0°, 33.3°, and 43.0° seem to reach almost complete coverage. 
 
-![Figure_3](figs/figure_3)
+![Figure_3](figs/03_fig_log_linear_regression_diversity_lat.png)
 Figure 3. Linear regression where estimated species richness was log-transformed. A non-significant (p = 0.279) negative relationship between estimated asymptotic species richness and distance from the equator. 
 
 ## Discussion
